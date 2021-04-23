@@ -1,0 +1,38 @@
+body{
+    margin:0;
+}
+
+.navbar{
+    height: 40px;
+    padding-top: 15px;
+    background-color: lightgrey;
+    margin-bottom: 40px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.navbar a:hover{
+    background-color: white;
+}
+
+.form-container{
+    border: 40px black solid;
+    padding: 40px;
+    margin: auto;
+    width:60%;
+    height:300px;
+    background-color: lightgrey;
+}
+
+#link{
+    color: red;
+}
+
+label{
+    font-weight: bold;
+}
